@@ -1,4 +1,5 @@
 # House sales dashboard
+Use Tableau
 
 ## Step of this project
 - Build each chart that want in dashboard
